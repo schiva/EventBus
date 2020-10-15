@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.364,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.811,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmEventBusTestMain_.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.811,C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmEventBusTestMain_.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.259,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.944,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.923,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.193,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\EventBus.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.293,C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmChild2_.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.821,C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmChild1_.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.293,C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmChild2_.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.623,=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.821,C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\fmChild1_.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.455,=C:\Users\User\Documents\Embarcadero\Studio\Projects\EventBus 테스트\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.777,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.227,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.232,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.200,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.238,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.949,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.718,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.761,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.206,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.763,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.248,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.187,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.884,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
